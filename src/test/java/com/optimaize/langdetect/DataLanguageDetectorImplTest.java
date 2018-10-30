@@ -97,6 +97,7 @@ public class DataLanguageDetectorImplTest {
                 {"de", largeText(readText("/texts/de-wikipedia-Deutschland.txt"))},
                 {"fr", largeText(readText("/texts/fr-wikipedia-France.txt"))},
                 {"it", largeText(readText("/texts/it-wikipedia-Italia.txt"))},
+                {"gd", largeText(readText("/texts/gd-wikipedia-Uicipeid.txt"))},
         };
     }
 
